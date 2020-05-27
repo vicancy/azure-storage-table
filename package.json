@@ -1,0 +1,22 @@
+{
+  "name": "azure-storage-table",
+  "version": "1.0.0",
+  "description": "A non-official package for async operation towards azure table storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicancy/azure-storage-table.git"
+  },
+  "author": "vicancy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vicancy/azure-storage-table/issues"
+  },
+  "homepage": "https://github.com/vicancy/azure-storage-table#readme",
+  "dependencies": {
+    "azure-storage": "^2.10.3"
+  }
+}
